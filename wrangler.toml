@@ -1,4 +1,4 @@
-name = "my-static-site"
+name = "published"
 compatibility_date = "2024-09-25"
 assets = {
   directory = "public"
