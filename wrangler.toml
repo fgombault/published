@@ -1,5 +1,6 @@
-name = "published"
-compatibility_date = "2024-09-25"
-assets = {
-  directory = "public"
-}
+  name = "my-spa"
+  main = "index.html"
+  compatibility_date = "2025-01-01"
+  [assets]
+  directory = "./public/assets"
+  binding = "ASSETS"
